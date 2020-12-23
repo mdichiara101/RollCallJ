@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "135976672550",
+    "firebase_url": "https://rollcall-8667f.firebaseio.com",
+    "project_id": "rollcall-8667f",
+    "storage_bucket": "rollcall-8667f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135976672550:android:6c93d464fc3a608245f5e7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135976672550-9tcg1eq62g0q7jktdgrnkjlhc8sl74kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "10c122eeccd8fb3d96dc86d2dc817a86e398ba30"
+          }
+        },
+        {
+          "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoAxftfxjH_DqRAuzFt0O7ILmge_a9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135976672550:android:a9b1b3981b24e67445f5e7",
+        "android_client_info": {
+          "package_name": "com.example.rollcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135976672550-5dqnim90tigadah3c75rabpe9b25a1qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rollcall",
+            "certificate_hash": "10c122eeccd8fb3d96dc86d2dc817a86e398ba30"
+          }
+        },
+        {
+          "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoAxftfxjH_DqRAuzFt0O7ILmge_a9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135976672550:android:f890c39bd56a242145f5e7",
+        "android_client_info": {
+          "package_name": "com.example.rollcallj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135976672550-jt9dqd9hcmckburq4qu0hdua8vsvif3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rollcallj",
+            "certificate_hash": "7fdbef422f39af687730f3b73bfdfe19005d55b9"
+          }
+        },
+        {
+          "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoAxftfxjH_DqRAuzFt0O7ILmge_a9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135976672550-coasqfhnkjm8osuskkc18f3n1v1dn8ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

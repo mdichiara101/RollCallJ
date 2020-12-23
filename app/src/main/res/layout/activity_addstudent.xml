@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ClassList">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        />
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="40dp"
+android:text="Student Information"
+android:textSize="25dp"
+android:textColor="#9cf"
+android:background="@color/colorPrimaryDark"
+android:textAlignment="center"
+android:layout_gravity="center_horizontal"
+    />
+
+<Space
+android:layout_width="match_parent"
+android:layout_height="30dp"
+    />
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+    >
+
+
+<TextView
+    android:text="First Name:"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"/>
+<EditText
+    android:id="@+id/fName"
+    android:hint="Please enter the students first name."
+    android:layout_width="0dp"
+    android:layout_weight="4"
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+    >
+
+<TextView
+    android:text="Last Name:"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"/>
+<EditText
+    android:id="@+id/lName"
+    android:hint="Please enter the students last Name."
+    android:layout_width="0dp"
+    android:layout_weight="4"
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+    >
+
+<TextView
+    android:text="RNumber:"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"/>
+<EditText
+    android:id="@+id/rNum"
+    android:hint="Please enter the students R number."
+    android:layout_width="0dp"
+    android:layout_weight="4"
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+    >
+
+<TextView
+    android:text="Email"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"/>
+<EditText
+    android:id="@+id/email"
+    android:hint="Please enter the students email."
+    android:layout_width="0dp"
+    android:layout_weight="4"
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+    >
+
+<TextView
+    android:text="Photo"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"/>
+<Button
+    android:id="@+id/photo"
+    android:layout_width="0dp"
+    android:layout_weight="4"
+    android:text="Upload Image"
+    android:layout_height="40dp"
+    />
+</LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        />
+<Button
+android:layout_width="match_parent"
+android:layout_height="70dp"
+android:text="Add Student"
+android:id="@+id/AddStudent"
+    />
+<Space
+android:layout_width="match_parent"
+android:layout_height="30dp"
+    />
+
+
+    </LinearLayout>
